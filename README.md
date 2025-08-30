@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**ContinuousQuantumRealm/ContinuousQuantumRealm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img width="90000000000000" height="903" src="https://64.media.tumblr.com/4c6031b3c5e8bd0537ce4dd8bee3c9e5/505e323870c3a27a-5d/s2048x3072/dbe12f4b65e97a5518862fc413a880e230e95d58.pnj">
+<p align="center"><img width="60" height="63" src="https://64.media.tumblr.com/9f866dddf54e854b0d5c021f260c4f67/789078ec60107c63-0b/s1280x1920/8b1eb3f63829b4fc80eb9cf76ed88df9538e8b41.pnj"> `🇹​​🇭​​🇴​​🇺​​🇬​​🇭​ ​🇭​​🇮​​🇸​ ​🇼​​🇴​​🇷​​🇩​​🇸​ ​🇲​​🇦​​🇾​ ​🇸​​🇪​​🇪​​🇲​ ​🇲​​🇪​​🇦​​🇳​, ​🇹​​🇭​​🇪​​🇾​ ​🇼​​🇪​​🇷​​🇪​ ​🇧​​🇴​​🇷​​🇳​ ​🇴​​🇫​ ​🇦​ ​🇬​​🇷​​🇪​​🇦​​🇹​ ​🇰​​🇮​​🇳​​🇩​​🇳​​🇪​​🇸​​🇸​ ​🇦​​🇳​​🇩​ ​🇵​​🇷​​🇪​​🇨​​🇮​​🇸​​🇪​​🇱​​🇾​ ​🇹​​🇭​​🇪​ ​🇱​​🇪​​🇸​​🇸​​🇴​​🇳​ ​🇹​​🇭​​🇦​​🇹​ ​🇭​​🇴​​🇹​ ​🇸​​🇭​​🇴​​🇹​ ​🇳​​🇪​​🇪​​🇩​​🇪​​🇩​ ​🇹​​🇴​ ​🇱​​🇪​​🇦​​🇷​​🇳​.`
+<img width="50" height="49" src="https://64.media.tumblr.com/8b27116e8639adf930c7313f06af27f7/789078ec60107c63-e7/s1280x1920/5ca1fbbc7b7faf4a17af77a51a4a0d92e415dd5f.pnj">
+<p align="center"> <img width="410" height="409" src="https://files.catbox.moe/1llmib.jpg"> </p>
+<p align="center"><img width="100" height="60" src="https://64.media.tumblr.com/b15fa0f3bb70206bb14cc6a847c61b5e/6aabbea0af91b052-6f/s250x400/a7303ff98458d538c6914bb25dead0580ccd17f8.gifv"><img width="100" height="60" src="https://64.media.tumblr.com/4d73372ab0a8b9016a8bf171ce795115/6aabbea0af91b052-cd/s250x400/773cccd55c399f918c6ff38ab2e6d2c698992c7d.gifv"><img width="100" height="60" src="https://64.media.tumblr.com/96157f9993986d03b6dea052c38986fc/daa0fddf21ff9628-72/s100x200/81921ee7249decf367b2ee460a61a062b34c230f.gifv"><img width="100" height="60" src="https://64.media.tumblr.com/33fe0edd6e14d2697e7702b141c120c7/6a013847a16bf59c-7a/s75x75_c1/02e2149ac30a596acaa92c9e8437f8d1dcadeeb9.gifv"><img width="100" height="60" src="https://64.media.tumblr.com/0c5a2e0e3b6a7b3abb82bfaff5eea5ed/660ffb09a175d47e-d2/s100x200/51154850a6bbe28509fcba67ae2961df107df22c.pnj">
+<p align="center"> ​<img width="40" height="49" src="https://64.media.tumblr.com/596c63cbb7c7c64b90701e96bea2063b/f242385b231135ed-af/s1280x1920/1a4cd17c8f056c68dae1025af49afd6f783c0456.pnj">​🇻​​🇪​​🇱​​🇮​, ​🇻​​🇪​​🇨​​🇹​​🇴​​🇷​ ​🇵​​🇷​​🇮​​🇲​​🇪​, ​🇧​​🇷​​🇦​​🇮​​🇳​​🇸​​🇹​​🇴​​🇷​​🇲​, ​🇸​​🇴​​🇺​​🇳​​🇩​_​🇫​​🇺​​🇱​ .<img width="40" height="49" src="https://64.media.tumblr.com/7848c0c25c422dd5b10c10d1b752730e/f242385b231135ed-b1/s640x960/b24fddce963fed47470a07cfb0531851e334357f.pnj">
+<p align="center"><img width="201" height="207" src="https://files.catbox.moe/y2884m.webp">
+<p align="center"> <img width="40" height="49" src="https://64.media.tumblr.com/2f48ddeab09398437c4bc1b70e779b4e/4d00ac6b33cec795-ee/s1280x1920/2a5b326b8db289d1ac77faa8cdb7a995d0e6e712.pnj">ᴀɴʏ ᴘʀᴏɴᴏᴜɴꜱ, ᴍɪɴᴏʀ!<img width="40" height="49" src="https://64.media.tumblr.com/0419fdb1380a1a5726f98e3dc40f1eb2/aef813fbde2ac156-f1/s500x750/511eb0fd7e4ce58a84677c819af227e0906bab7b.pnj">
+<p align="center"><img width="305" height="315" src="https://files.catbox.moe/w50ppd.webp">
+<p align="center"><img width="40" height="39" src="https://64.media.tumblr.com/39fa3a5d906f432f2161b5d2ef0c1009/f5ac20d5b9aa58a7-cd/s1280x1920/93ad221f611fc8817d65c3784455b9b814232623.pnj"> ᴛᴀᴋᴇɴ ʙʏ: ᴍᴇʟ!
+<img width="40" height="39" src="https://64.media.tumblr.com/6d4072cbcc4ca4f6cb0f41252026b2ff/0fded36d2c9d5336-7d/s1280x1920/76c35a880f918b598c849bcbfe3529676116a92f.pnj">
+<p align="center"> <img width="70" height="60" src="https://64.media.tumblr.com/1a6477feea833239ff04edffc4a86c24/f99375d9a03fdd80-42/s1280x1920/5dbbd496d366a3aabd2badda3bbf169581ef7cbc.pnj">`𝘔𝘺 𝘱𝘢𝘵𝘩 𝘤𝘳𝘰𝘴𝘴𝘦𝘥 𝘵𝘩𝘢𝘵 𝘰𝘧 𝘵𝘩𝘦 𝘔𝘪𝘯𝘪𝘤𝘰𝘯𝘴 𝘢𝘴 𝘵𝘩𝘦𝘪𝘳 𝘴𝘩𝘪𝘱 𝘸𝘢𝘴 𝘥𝘳𝘪𝘧𝘵𝘪𝘯𝘨 𝘢𝘪𝘮𝘭𝘦𝘴𝘴𝘭𝘺 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘴𝘱𝘢𝘤𝘦.`<img width="60" height="70" src="https://64.media.tumblr.com/38179bb3fbe036fee464b2fbb82280b4/eecf9d60e2667185-e9/s2048x3072/047daa3c01addec275a0f5468873d0670557cfb6.pnj">
+<p align="center"><a href="https://www.patreon.com/preview/campaign?u=72833203&fan_landing=true&view_as=public" target="_blank">PONY.TOWN=DETAILS</a>
+<p align="center"><img width="60" height="70" src="https://64.media.tumblr.com/cdbde1accdb1a348727b6b8e3460169e/4ae60345550ba0d9-49/s1280x1920/d6d522759bfa58384baa0012d29074d0ba1c81fd.pnj">𝘈𝘵𝘭𝘦𝘢𝘴𝘵 𝘵𝘩𝘦 𝘮𝘪𝘯𝘪-𝘤𝘰𝘯𝘴 𝘸𝘪𝘭𝘭 𝘳𝘦𝘮𝘦𝘮𝘣𝘦𝘳 𝘵𝘩𝘦 𝘩𝘰𝘮𝘦𝘴 𝘐 𝘨𝘢𝘷𝘦 𝘵𝘩𝘦𝘮.<img width="60" height="70" src="https://64.media.tumblr.com/1f40edb4665db64f48c6f45e24c85047/70e56533b40120da-7f/s1280x1920/3fca9c3cc5e2c7bbf77abf42bed621252d0fa716.pnj">
+<p align="center"><img width="70" height="70" src="https://64.media.tumblr.com/89c114f030ae0fb08f6c856d099f9925/1fc36d6e6e3c6b49-cd/s1280x1920/c31258bdf02f06de504429c44aab81ba17b3bbbd.pnj"><img width="70" height="90" src="https://64.media.tumblr.com/d7fa80eb10b2d69d2be05002e413905a/1fc36d6e6e3c6b49-18/s640x960/7d09953992e3bb841a67f1bec4c630712df519c8.pnj"><img width="70" height="70" src="https://64.media.tumblr.com/a7d28ce58c9f99cb43e2f7e0de140238/1fc36d6e6e3c6b49-9d/s1280x1920/90ae27d7a0eccae206a05292aca1291e20174c3d.pnj">
+<p align="center"><img width="60" height="70" src="https://64.media.tumblr.com/2f8595fc78c591aa7f50574d2ad53eca/21b51550e555fbd5-19/s2048x3072/3c0b9b418332c40ad871eda08cf640d51f1ebe2d.pnj">`𝘔𝘪𝘯𝘥 𝘺𝘰𝘶𝘳 𝘵𝘰𝘯𝘨𝘶𝘦, 𝘪𝘮𝘱𝘶𝘥𝘦𝘯𝘵 𝘺𝘰𝘶𝘵𝘩. 𝘐'𝘷𝘦 𝘣𝘦𝘦𝘯 𝘥𝘰𝘪𝘯𝘨 𝘵𝘩𝘪𝘴 𝘴𝘪𝘯𝘤𝘦 𝘣𝘦𝘧𝘰𝘳𝘦 𝘺𝘰𝘶 𝘸𝘦𝘳𝘦 𝘤𝘳𝘦𝘢𝘵𝘦𝘥.`<img width="60" height="70" src="https://64.media.tumblr.com/62d931b6f39db34f25b5a93be04c1034/21b51550e555fbd5-e6/s2048x3072/e99e753de747df051475e96f79797ccb26e5b606.pnj">
+<p align="center"> <img width="100" height="80" src="https://64.media.tumblr.com/23f3e190879ca6330a6b472e0ee659e8/121746eccfa472fa-12/s1280x1920/00670250b41493c9763889a9185336d76e9ab184.pnj"><img width="100" height="80" src="https://64.media.tumblr.com/a79f5b2ca73830e9f6d8aa56e6f73a63/df7fc8b59426e146-49/s2048x3072/324d16f6a440216ea3c10b8dbf31bd1a67b74cb0.pnj"><img width="100" height="80" src="https://64.media.tumblr.com/1e8bece4deb04acc4509e863c005bfee/d6a72ec5d5f595bd-66/s540x810/8a41f78938cc0e8836ac780398fd628f936fdb0f.pnj"><img width="100" height="80" src="https://64.media.tumblr.com/117d96b16f13c403363d8d736b2dc91b/d6a72ec5d5f595bd-72/s640x960/b6eac91e7eaf83e23e2dfac6c37f097033104f54.pnj">
+<p align="center">`𝐓𝐡𝐢𝐬 𝐢𝐬 𝐲𝐨𝐮𝐫 𝐝𝐞𝐬𝐭𝐢𝐧𝐲. 𝐑𝐞𝐚𝐜𝐡 𝐨𝐮𝐭... 𝐚𝐧𝐝 𝐬𝐚𝐯𝐞 𝐭𝐡𝐞 𝐟𝐮𝐭𝐮𝐫𝐞.`
+<p align="center"> <img width="440" height="440" src="https://files.catbox.moe/pzpqg8.jpg"> </p>
+<p align="center"><img width="90000000000000" height="903" src="https://64.media.tumblr.com/7dccfc4d8093f433247038575b75114c/505e323870c3a27a-02/s2048x3072/a4775dbef08c1d5cac7082b65362137fbffa982f.pnj">
